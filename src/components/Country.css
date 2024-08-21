@@ -1,0 +1,14 @@
+.box{
+    border: 5px solid purple;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.visited{
+    background-color: bisque;
+}
